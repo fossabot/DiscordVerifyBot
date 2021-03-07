@@ -19,12 +19,12 @@
    ```
 4. Enter your  token & channel id & prefix in `main.js`
   ```
-  4       const prefix = "."
+  4      const prefix = "."
                           ^^
   22     if (command == 'verify' && message.channel.id === 'channel id'){
                                                               ^^^^
                                                               
-  48       client.login('your token');
+  48     client.login('your token');
                             ^^^^^
    ```
 
