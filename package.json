@@ -1,0 +1,17 @@
+{
+  "name": "oneabxv3all",
+  "version": "1.0.0",
+  "main": "main.js",
+  "keywords": ["discord.js" , "discordbot" , "verifybot"],
+  "author": "oneabxv3all",
+  "license": "ISC",
+  "description": "basic discord verify bot",
+  "scripts": {
+    "start":"node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "node-fetch":"^2.6.1"
+  }
+}
