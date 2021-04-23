@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Foneabxv3all%2FDiscordVerifyBot.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Foneabxv3all%2FDiscordVerifyBot?ref=badge_shield)
+
 
 ### Prerequisites
 
@@ -43,3 +45,7 @@
 ### developer team
 * [oneabxv3all](https://github.com/oneabxv3all)
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Foneabxv3all%2FDiscordVerifyBot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Foneabxv3all%2FDiscordVerifyBot?ref=badge_large)
